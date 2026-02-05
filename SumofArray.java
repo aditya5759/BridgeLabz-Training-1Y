@@ -7,7 +7,8 @@ class SumofArray{
 		System.out.print("Enter 5 elements of the array");
 		for(int i=0; i<5; i++)
 		{
-		arr[i]=sc.nextInt();}
+		arr[i]=sc.nextInt();
+		}
 		for(int i=0; i<5; i++)
 		{
 			s+=arr[i];
